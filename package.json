@@ -1,0 +1,11 @@
+{
+  "name": "2DCMDemo",
+  "uuid": "2add5edf-5857-40f8-94ef-53cd9852c4eb",
+  "creator": {
+    "version": "3.8.5"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.2",
+    "typescript": "^5.7.3"
+  }
+}
