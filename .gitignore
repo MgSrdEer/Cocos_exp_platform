@@ -4,6 +4,7 @@
 #///////////////////////////
 library/
 temp/
+!.doc/temp/
 local/
 build/
 profiles/
